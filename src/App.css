@@ -2,7 +2,7 @@
 
 /* Program Wide Formating */
 
-* {
+*{
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
 }
@@ -10,6 +10,7 @@
 body {
   margin: 0;
   padding: 0;
+  display: block;
 }
 
 .app {
